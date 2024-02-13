@@ -17,4 +17,9 @@ export const productData = [
         "https://images.unsplash.com/photo-1644364935906-792b2245a2c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8a2ViYXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       productPrice: 100,
     },
+    {
+      productName:"phone",
+      imageUrl:"https://www.komplettforetag.se/img/p/800/1247679.jpg",
+      productPrice:1000
+    }
   ];
